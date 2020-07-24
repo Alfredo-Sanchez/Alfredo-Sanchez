@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Hola 👋, mi nombre es Alfredo Sánchez
+### Hi there 👋, mi nombre es Alfredo Sánchez
 #### Soy un estudiante del ultimo año de Lic. Análisis de Sistemas.
 ![Soy un estudiante del ultimo año de Lic. Análisis de Sistemas.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Me dedico esto por que me apasiona y divierte al mismo tiempo.
 
-Skills:  / HTML / CSS / JAVASCRIPT/ GULP / SASS
+Habilidades:  / HTML / CSS / JAVASCRIPT/ GULP / SASS
+
+🔭 Actualmente trabajo en Cofudep Ltda. 
