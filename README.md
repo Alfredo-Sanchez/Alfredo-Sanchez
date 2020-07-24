@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 ### Hola a todos 👋, mi nombre es Alfredo Sánchez
 #### Soy un estudiante del ultimo año de Lic. Análisis de Sistemas.
-![Soy un estudiante del ultimo año de Lic. Análisis de Sistemas.](img/git.png)
+<!--![Soy un estudiante del ultimo año de Lic. Análisis de Sistemas.](img/git.png)-->
+![image](img/git.png)
 
 Me dedico esto por que me apasiona y divierte al mismo tiempo.
 
