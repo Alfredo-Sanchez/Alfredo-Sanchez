@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 Me dedico esto por que me apasiona y divierte al mismo tiempo.
 
-Habilidades:  / HTML / CSS / JAVASCRIPT/ GULP / SASS
+Habilidades:  / HTML / CSS / JAVASCRIPT / GULP / SASS / SQL
 
 🔭 Actualmente trabajo en Cofudep Ltda. 
