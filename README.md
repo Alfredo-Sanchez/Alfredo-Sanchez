@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!--![Soy un estudiante del ultimo año de Lic. Análisis de Sistemas.](img/git.png)-->
 ![image](https://github.com/Alfredo-Sanchez/Alfredo-Sanchez/blob/master/img/git.png)
 
-Me dedico esto por que me apasiona y divierte al mismo tiempo.
+Me dedico esto porque me apasiona y divierte al mismo tiempo.
 
 Habilidades:  / HTML / CSS / JAVASCRIPT / GULP / SASS / SQL
 
