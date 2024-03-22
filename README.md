@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hola a todos 👋, mi nombre es Alfredo Sánchez
-#### Actualmente estoy cursando la tutoria de tesis de Lic. Análisis de Sistemas.
-<!--![Soy un estudiante del ultimo año de Lic. Análisis de Sistemas.](img/git.png)-->
+#### Licenciado en Análisis de Sistemas.
+<!--![Soy Lic. Análisis de Sistemas.](img/git.png)-->
 ![image](https://github.com/Alfredo-Sanchez/Alfredo-Sanchez/blob/master/img/git.png)
 
 Me dedico esto porque me apasiona y divierte al mismo tiempo.
