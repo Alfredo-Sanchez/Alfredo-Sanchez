@@ -1,26 +1,29 @@
 
 
-<!--
-**Alfredo-Sanchez/Alfredo-Sanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there, I'm Alfredo Sánchez! 👋
 
-Here are some ideas to get you started:
+I’m a passionate Web Developer with expertise in Backend. I enjoy building clean, scalable, and maintainable software solutions, following best practices and utilizing modern architectures like Clean Architecture.
+### 🎓  My Academic Achievements 
+* Bachelor's Degree in Computer Science.
+* Postgraduate Degree in University Teaching.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hola a todos 👋, mi nombre es Alfredo Sánchez
-#### Licenciado en Análisis de Sistemas.
-<!--![Soy Lic. Análisis de Sistemas.](img/git.png)-->
-![image](https://github.com/Alfredo-Sanchez/Alfredo-Sanchez/blob/master/img/git.png)
+### 🛠️ My Tech Stack
+* **Frontend:** JavaScript, CSS, HTML, Bootstrap
+* **Backend:**  NodeJs, Express, PHP, Laravel
+* **Databases:** PostreSQL, MySQL, ORACLE, MongoDB
 
-Me dedico esto porque me apasiona y divierte al mismo tiempo.
+### 🌟 My Highlights
+* Developed a web application for a pizzeria that manages purchases, sales, and accounting.
+* Developed a web application for a dental clinic that manages purchases, services, and sales.
+* Tought thesis students in the Bachelor's degree program in Computer Science.
 
-Habilidades:  / HTML / CSS / JAVASCRIPT / GULP / SASS / SQL
+### 🚀 Goals
+* Build scalable solutions and lead large-scale projects.
+* Expand my portfolio with innovative projects.
+* Dive deeper into project management and team-building strategies.
 
-🔭 Actualmente trabajo en Cofudep Ltda. 
+
+### 🤝 Get in Touch
+- 🔗 [LinkedIn](www.linkedin.com/in/alfredo-sanchezg)  
+- ✉️ [Email](mailto:alfredosanchez080114@gmail.com)
+
