@@ -8,7 +8,7 @@ I’m a passionate Web Developer with expertise in Backend. I enjoy building cle
 ## 🛠️ My Tech Stack
 * **Frontend:** JavaScript, CSS, HTML, Bootstrap
 * **Backend:**  NodeJs, Express, PHP, Laravel
-* **Databases:** PostreSQL, MySQL, ORACLE, MongoDB
+* **Databases:** PostgreSQL, MySQL, Oracle, MongoDB
 
 ## 🌟 My Highlights
 * Developed a web application for a pizzeria that manages purchases, sales, and accounting.
